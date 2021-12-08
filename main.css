@@ -35,7 +35,7 @@ header nav .nav-right-section a {
 }
 
 nav .nav-right-section .menu-icon {
-  background-image: url("/assets/dots.png");
+  background-image: url("./assets/dots.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
