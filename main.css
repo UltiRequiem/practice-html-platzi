@@ -43,3 +43,8 @@ nav .nav-right-section .menu-icon {
   width: 25px;
   height: 25px;
 }
+
+nav .nav-right-section img {
+  border-radius: 50%;
+  margin-left: 15px;
+}
