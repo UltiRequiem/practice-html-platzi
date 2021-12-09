@@ -89,4 +89,31 @@ main .main-input .main-input-container input {
 
 main .main-input-container:hover {
   box-shadow: 0 1px 6px 0 #20212447;
+  border-color: #dfe1e500;
+}
+
+main .main-input-container .search-icon {
+  background-image: url("./assets/search.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+
+  margin-left: 15px;
+
+  width: 18px;
+  height: 18px;
+}
+
+main .main-input .micro-icon {
+  background-image: url("./assets/mic.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+
+  margin-right: 15px;
+
+  width: 18px;
+  height: 18px;
+
+  cursor: pointer;
 }
