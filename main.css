@@ -48,3 +48,18 @@ nav .nav-right-section img {
   border-radius: 50%;
   margin-left: 15px;
 }
+
+main {
+  margin-top: 150px;
+  text-align: center;
+}
+
+main .main-logo {
+  width: 530px;
+  margin: 0 auto;
+  margin-bottom: 35px;
+}
+
+main .main-logo img {
+  width: 100%;
+}
