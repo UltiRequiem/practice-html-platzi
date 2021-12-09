@@ -86,3 +86,7 @@ main .main-input .main-input-container input {
   outline: none;
   height: 40px;
 }
+
+main .main-input-container:hover {
+  box-shadow: 0 1px 6px 0 #20212447;
+}
