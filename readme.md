@@ -1,6 +1,8 @@
 # HTML Practice Course
 
-https://ultirequiem.github.io/practice-html-platzi
+![Screenshot](./assets/result.png)
+
+> [Live Demo](https://ultirequiem.github.io/practice-html-platzi)
 
 ## License
 
