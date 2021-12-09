@@ -34,10 +34,6 @@ header nav .nav-right-section a {
   color: #000000;
 }
 
-main .main-input .main-input-container input {
-  width: 100%;
-}
-
 nav .nav-right-section .menu-icon {
   background-image: url("./assets/dots.png");
   background-repeat: no-repeat;
@@ -81,4 +77,12 @@ main .main-input-container {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+main .main-input .main-input-container input {
+  border-radius: 10%;
+  width: 100%;
+  border: none;
+  outline: none;
+  height: 40px;
 }
